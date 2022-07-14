@@ -14,7 +14,7 @@
 # @raycast.author Raul Craveiro
 # @raycast.authorURL https://craveiro.com.br
 
-# @raycast.argument1 { "type": "text", "placeholder": "Query" }
+# @raycast.argument1 { "type": "text", "placeholder": "URL" }
 
 cd ~/Downloads
 
